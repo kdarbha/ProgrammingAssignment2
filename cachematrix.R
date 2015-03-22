@@ -1,4 +1,5 @@
-## The Assignment 2 is to write a pair of functions that cache the inverse of a matrix.
+## For The Programming Assignment 2, we need to write a pair of functions 
+## that cache the inverse of a matrix.
 
 ## The below function creates a matrix object that can cache its inverse
 
